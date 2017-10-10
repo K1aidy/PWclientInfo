@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Offsets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaseAdress>14666656</BaseAdress>
+  <GameAdress>14669220</GameAdress>
+  <GuiAdress>10272064</GuiAdress>
+  <UseSkill>8332640</UseSkill>
+  <SendPacket>8313648</SendPacket>
+  <Action_1>5132064</Action_1>
+  <Action_2>5154384</Action_2>
+  <Action_3>5136352</Action_3>
+  <InviteCount>14733876</InviteCount>
+  <InviteStruct>14733864</InviteStruct>
+  <ChatStart>14704472</ChatStart>
+  <ChatNumber>14704484</ChatNumber>
+  <MsgId>20</MsgId>
+  <MsgType>4</MsgType>
+  <Msg_form1>12</Msg_form1>
+  <Msg_form2>8</Msg_form2>
+  <MsgWid>32</MsgWid>
+  <InviteWidPlayer>16</InviteWidPlayer>
+  <InviteWidParty>20</InviteWidParty>
+  <OffsetToGameAdress>28</OffsetToGameAdress>
+  <OffsetToPersStruct>52</OffsetToPersStruct>
+  <OffsetToCountBufs>920</OffsetToCountBufs>
+  <OffsetToBufsArray>912</OffsetToBufsArray>
+  <OffsetToSkillsCount>5620</OffsetToSkillsCount>
+  <OffsetToSkillsArray>5616</OffsetToSkillsArray>
+  <OffsetToCurrentSkill>2108</OffsetToCurrentSkill>
+  <OffsetToIdSkill>8</OffsetToIdSkill>
+  <OffsetToCdSkill>16</OffsetToCdSkill>
+  <OffsetToParty>2072</OffsetToParty>
+  <OffsetToStructParty>20</OffsetToStructParty>
+  <OffsetToCountParty>24</OffsetToCountParty>
+  <offsetToName>1864</offsetToName>
+  <OffsetToClassID>1868</OffsetToClassID>
+  <OffsetToMiningState>648</OffsetToMiningState>
+  <OffsetToWidWin_QuickAction>244</OffsetToWidWin_QuickAction>
+  <OffsetToX>60</OffsetToX>
+  <OffsetToY>68</OffsetToY>
+  <OffsetToZ>64</OffsetToZ>
+  <OffsetToWalkMode>1880</OffsetToWalkMode>
+  <OffsetToWid>1204</OffsetToWid>
+  <OffsetToTargetWid>1440</OffsetToTargetWid>
+  <OffsetToHashTables>28</OffsetToHashTables>
+  <OffsetToPlayersStruct>28</OffsetToPlayersStruct>
+  <OffsetToBeginPlayersStruct>152</OffsetToBeginPlayersStruct>
+  <OffsetToPlayersCount>24</OffsetToPlayersCount>
+  <OffsetToMobsStruct>32</OffsetToMobsStruct>
+  <OffsetToBeginMobsStruct>92</OffsetToBeginMobsStruct>
+  <OffsetToMobsCount>24</OffsetToMobsCount>
+  <OffsetToMobName>608</OffsetToMobName>
+  <OffsetToMobWid>276</OffsetToMobWid>
+  <OffsetToInventStruct>4448</OffsetToInventStruct>
+  <OffsetToInventStructSecond>12</OffsetToInventStructSecond>
+  <OffsetToCellsCount>20</OffsetToCellsCount>
+  <OffsetToItemInCellType>8</OffsetToItemInCellType>
+  <OffsetToItemInCellID>12</OffsetToItemInCellID>
+  <OffsetToItemInCellCount>16</OffsetToItemInCellCount>
+  <OffsetToItemInCellPrice>28</OffsetToItemInCellPrice>
+  <OffsetToItemInCellName>64</OffsetToItemInCellName>
+  <OffsetItemInCellLevel>144</OffsetItemInCellLevel>
+
+
+
+
+
+
+
+</Offsets>
